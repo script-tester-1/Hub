@@ -1,4 +1,4 @@
---[[ Doors Mode Script Hub ]]
+-- Doors Mode Script Hub
 
 local CoreGui = game:GetService("CoreGui")
 local TweenService = game:GetService("TweenService")
