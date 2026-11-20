@@ -1,8 +1,4 @@
---[[
-    Doors-Mode-Hub - Fixed & Compact Full Version + Viewport-Clamped Saved Float Button
-    - Fixed syntax/typo bugs in Christmas Hardcore Mode & Inferno Mode
-    - Saves & restores floating button (rbxassetid://6556477120) position with ViewportSize boundary clamping
-]]--
+--[[ Doors Mode Script Hub ]]
 
 local CoreGui = game:GetService("CoreGui")
 local TweenService = game:GetService("TweenService")
